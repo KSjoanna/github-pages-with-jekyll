@@ -1,4 +1,4 @@
-# hi. i'm joanna
+# ksjoanna
 
-this is my homepage
+hi. i'm joanna.
 it's not much, but it's honest work
