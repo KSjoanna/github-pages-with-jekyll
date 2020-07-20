@@ -1,3 +1,4 @@
-# Welcome to my blog
+# hi. i'm joanna
 
-I'm glad you are here. I plan to talk about ...
+this is my homepage
+it's not much, but it's honest work
